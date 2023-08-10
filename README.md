@@ -1,5 +1,5 @@
 <div align=center>
-	<img src="https://capsule-render.vercel.app/api?type=wave&color=FFCAD3&height=300&section=header&text=kimchoker's%20Github&fontColor=ffffff&fontSize=70" />
+	<img src="https://capsule-render.vercel.app/api?type=wave&color=FFCAD3&height=200&section=header&text=kimchoker's%20Github&fontColor=ffffff&fontSize=70" />
 </div>
 <div align=center>
 	<h3>📚 Tech Stack 📚</h3>
@@ -59,6 +59,6 @@
   <br>
 </div>
 <div align=center>
-	<img src="https://capsule-render.vercel.app/api?type=shark&color=auto&height=100&section=footer&text=Thank%20You!&fontSize=60"/>
+	<img src="https://capsule-render.vercel.app/api?type=wave&color=FFCAD3&height=200&section=footer&text=Thanks!&fontSize=60"/>
 	
 </div>
