@@ -33,17 +33,17 @@
 </div>
 <br>
 <div align=center>
-	<!-- <p>🎨 SNS & Portfolio 🎨</p>
+	<p>🎨 SNS & Portfolio 🎨</p>
 </div>
 <div align=center>
-	<a href="https://sneaky-mascara-833.notion.site/78d3f05514754c0d84825bf901a5cdb2">
+	<a href="https://www.notion.so/jhkim0326/">
 		<img src="https://img.shields.io/badge/Portfolio-FF3633?style=flat&logo=Micro.blog&logoColor=white" />
 	</a>
-	<a href="mailto:dmswll97@gmail.com">
+	<a href="mailto:ysin2x@naver.com">
 		<img src="https://img.shields.io/badge/Mail-30B980?style=flat&logo=Gmail&logoColor=white" />
 	</a>
 	<br>
-</div> -->
+</div>
 <div align=center>
   <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimchoker&layout=compact">
