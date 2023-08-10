@@ -1,5 +1,5 @@
 <div align=center>
-	<img src="https://capsule-render.vercel.app/api?type=wave&color=#FFCAD3&height=300&section=header&text=kimchoker's%20Github&fontSize=70&fontColor=#ffffff" />
+	<img src="https://capsule-render.vercel.app/api?type=wave&color=FFCAD3&height=300&section=header&text=kimchoker's%20Github&fontColor=ffffff&fontSize=70" />
 </div>
 <div align=center>
 	<h3>📚 Tech Stack 📚</h3>
