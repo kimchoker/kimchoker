@@ -36,7 +36,7 @@
 	<p>🎨 SNS & Portfolio 🎨</p>
 </div>
 <div align=center>
-	<a href="https://www.notion.so/jhkim0326/">
+	<a href="https://jhkim0326.notion.site/d44647a9dc974e9381d50d6480723532?pvs=4">
 		<img src="https://img.shields.io/badge/Portfolio-FF3633?style=flat&logo=Micro.blog&logoColor=white" />
 	</a>
 	<a href="mailto:ysin2x@naver.com">
