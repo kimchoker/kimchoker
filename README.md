@@ -21,7 +21,3 @@
   
   <br>
 </div>
-<div align=center>
-	<img src="https://capsule-render.vercel.app/api?type=wave&color=FFCAD3&height=200&section=footer&text=Thanks!&fontSize=60"/>
-	
-</div>
